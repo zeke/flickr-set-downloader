@@ -29,6 +29,7 @@
     "dotenv": "^0.2.8",
     "flickr-client": "0.0.3",
     "flickr-generate-urls": "0.0.1",
-    "flickr-photo-info": "0.0.0"
+    "flickr-photo-info": "0.0.0",
+    "superagent": "^0.18.2"
   }
 }
