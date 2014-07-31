@@ -11,7 +11,11 @@
     "type": "git",
     "url": ""
   },
-  "keywords": ["","",""],
+  "keywords": [
+    "",
+    "",
+    ""
+  ],
   "author": "",
   "license": "MIT",
   "bugs": {
@@ -22,6 +26,9 @@
     "mocha": "^1.20.0"
   },
   "dependencies": {
-    "dotenv": "^0.2.8"
+    "dotenv": "^0.2.8",
+    "flickr-client": "0.0.3",
+    "flickr-generate-urls": "0.0.1",
+    "flickr-photo-info": "0.0.0"
   }
 }
